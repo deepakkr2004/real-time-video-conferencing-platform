@@ -70,3 +70,15 @@ Real-Time-Video-Conferencing-Platform/
 │
 ├── .gitignore
 └── README.md
+```
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](./screenshots/login.png)
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🎥 Meeting Page
+![Meeting Page](./screenshots/meeting.png)
